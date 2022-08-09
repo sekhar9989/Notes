@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "zoho-logo-512px.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
